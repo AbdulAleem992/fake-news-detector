@@ -5,6 +5,7 @@ This is a machine learning project that classifies news articles as **real** or 
 📁 Fake News Detector
 
 ├── 📁 templates
+
     ├── index.html
 ├── 📄 app.py                       
 ├── 📄 train_model.py              
