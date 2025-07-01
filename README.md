@@ -6,6 +6,7 @@ This is a machine learning project that classifies news articles as **real** or 
 
 
 ├── 📁 templates
+
     ├── index.html
 ├── 📄 app.py                       
 ├── 📄 train_model.py              
