@@ -3,6 +3,8 @@
 This is a machine learning project that classifies news articles as **real** or **fake** using Logistic Regression and TF-IDF vectorization.
 
 📁 Fake News Detector
+
+
 ├── 📁 templates
     ├── index.html
 ├── 📄 app.py                       
